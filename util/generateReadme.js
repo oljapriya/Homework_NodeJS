@@ -1,12 +1,12 @@
 // TODO: Create a function that returns a license badge based on which license is passed in
 
-function generateMarkdown(data, githubInfo) {
+function generateReadme(answers) {
   return `
-  # **${data.title}**
-  ${data.badge}
+  # **${answers.title}**
+  ${answers.badge}
 
   ## Description 
-  ${data.description}
+  ${answers.description}
 
   ## Table of contents
 
@@ -20,34 +20,34 @@ function generateMarkdown(data, githubInfo) {
   - [GitHub Info] (#GitHub)
 
   ## Instalation
-  ${data.installation}
+  ${answers.installation}
 
   ## Usage 
-  ${data.usage}
+  ${answers.usage}
 
   ## Licence
-  ${data.license}
+  ${answers.license}
 
   ## Contributors
-  ${data.contributing}
+  ${answers.contributing}
 
   ## Test
-  ${data.test}
+  ${answers.test}
 
   ## Repository
 
-  - [Project Repo] (${data.repo})
+  - [Project Repo] (${answers.repo})
   
   ## GitHub
 
-  ![My Image] (${githubInfo.githubImage})
-  - ${githubInfo.name}
-  - [GitHub Profile] (${githubInfo.profile})
-  - ${githubInfo.email}
+  ![My Image] (${answers.githubImage})
+  - ${answers.name}
+  - [GitHub Profile] (${answers.profile})
+  - ${answers.email}
 
   `;
 }
-module.exports = generateMarkdown;
+module.exports = generateReadme;
 
 // TODO: Create a function that returns the license link
 // If there is no license, return an empty string
