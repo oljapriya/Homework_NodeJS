@@ -35,7 +35,7 @@
 
   ## Repository
 
-  - [Project Repo] [https://github.com/oljapriya/Homework_NodeJS] (https://github.com/https://github.com/oljapriya/Homework_NodeJS)<br/>
+  - [Project Repo] [https://github.com/oljapriya/Homework_NodeJS] (https://github.com/https://github.com/oljapriya/Homework_NodeJS)
 
   - Email me with any questions: poljako@gmail.com
   

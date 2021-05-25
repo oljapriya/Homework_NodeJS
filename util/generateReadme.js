@@ -15,7 +15,7 @@ function generateReadme(answers) {
   - [Description] (#Description)
   - [Instalation] (#Instalation)
   - [Usage] (#Usage)
-  - [Licence] (#Licence)
+  - [Licence] (#License)
   - [Contributors] (#Contributors)
   - [Test] (#Test)
   - [Repository Link] (#Repository)

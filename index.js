@@ -25,7 +25,7 @@ function promptUser() {
   },
   {
     type: "list",
-    name: "licence",
+    name: "license",
     message: "Please provide the project licence or your badge link",
     choices: [
       "Apache",
