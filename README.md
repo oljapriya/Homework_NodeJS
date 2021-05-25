@@ -1,9 +1,11 @@
 
-  # **README Generator**
-  undefined
+  <h1 align="center">README.md Generator Using Node.js</h1>
+
+  ![badge](https://img.shields.io/badge/license-undefined-brightgreen)<br/>
+  
 
   ## Description 
-  undefined
+  When you run node index.js the application uses the inquirer package to prompt you in the command line with a series of questions abou your project. The application will generate markdown and a table of contents for the README based on your responsesto the inquirer prompts. From there, fs.writeFile is used to generate your project's README.md file.
 
   ## Table of contents
 
@@ -17,13 +19,13 @@
   - [GitHub Info] (#GitHub)
 
   ## Instalation
-  undefined
+  When you run node index.js the application uses the inquirer package to prompt you in the command line with a series of questions abou your project. The application will generate markdown and a table of contents for the README based on your responsesto the inquirer prompts. From there, fs.writeFile is used to generate your project's README.md file.
 
   ## Usage 
   When you run node index.js the application uses the inquirer package to prompt you in the command line with a series of questions abou your project. The application will generate markdown and a table of contents for the README based on your responsesto the inquirer prompts. From there, fs.writeFile is used to generate your project's README.md file.
 
   ## Licence
-  undefined
+  This application is covered by the undefined license.
 
   ## Contributors
   
@@ -33,13 +35,10 @@
 
   ## Repository
 
-  - [Project Repo] (https://github.com/oljapriya/Homework_NodeJS)
-  
-  ## GitHub
+  - [Project Repo] [https://github.com/oljapriya/Homework_NodeJS] (https://github.com/https://github.com/oljapriya/Homework_NodeJS)<br/>
 
-  ![My Image] (undefined)
-  - undefined
-  - [GitHub Profile] (undefined)
-  - undefined
+  - Email me with any questions: poljako@gmail.com
+  
+ 
 
   

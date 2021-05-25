@@ -15,18 +15,27 @@ function promptUser() {
   },
   {
     type: "input",
-    name: "usage",
-    message: "Please provide the installation instructions"
-  },
-  {
-    type: "input",
-    name: "usage",
+    name: "description",
     message: "Please provide the project usage"
   },
   {
     type: "input",
-    name: "licance",
+    name: "installation",
+    message: "Please provide the installation instructions"
+  },
+  {
+    type: "list",
+    name: "licence",
     message: "Please provide the project licence or your badge link",
+    choices: [
+      "Apache",
+      "Academic",
+      "GNU",
+      "ISC",
+      "MIT",
+      "Mozilla",
+      "Open"    
+    ]
   },
   {
     type: "input",
@@ -45,8 +54,14 @@ function promptUser() {
   },
   {
     type: "input",
-    name: "repo",
+    name: "username",
     message: "What is your repo link?"
+  },
+  {
+    type: "input",
+    name: "email",
+    message: "Please enter your email:"
+
   }
 ]);
 }
