@@ -54,7 +54,7 @@ function promptUser() {
   },
   {
     type: "input",
-    name: "username",
+    name: "repo",
     message: "What is your repo link?"
   },
   {
