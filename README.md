@@ -7,7 +7,10 @@
 
   ## Description 
   Run the following command at th root of your project and answer the prompted questions:
-  Untitled_ May 26, 2021 9_55 AM.gif![image](https://user-images.githubusercontent.com/79331882/119675505-191a3e00-be0b-11eb-9044-e00b9c48e788.png)
+  <iframe src="https://drive.google.com/file/d/1klr_SEdCqJ3ID8f_wk2y4MleWvp4RRLh/preview" width="640" height="480">    </iframe>
+
+
+ 
 
 
   ## Table of contents
