@@ -15,7 +15,6 @@
   - [Licence] (#license)
   - [Contributors] (#contributing)
   - [Test] (#test)
-  - [Repository Link] (#repo)
   - [Questions] (#questions)
   
 

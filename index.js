@@ -16,17 +16,17 @@ function promptUser() {
   {
     type: "input",
     name: "description",
-    message: "Please provide the project usage."
-  },
-  {
-    type: "input",
-    name: "usage",
-    message: "Provide instruction and examples of your project in use for the Usage section."
+    message: "Please provide a brif description of yuor project: "
   },
   {
     type: "input",
     name: "installation",
-    message: "Please provide the installation instructions"
+    message: "Describe the installaton process if any: ", 
+  },
+  {
+    type: "input",
+    name: "usage",
+    message: "What is thes project usage for?"
   },
   {
     type: "list",
@@ -54,13 +54,13 @@ function promptUser() {
   },
   {
     type: "input",
-    name: "username",
-    message: "What it your github user name?"
+    name: "questions",
+    message: "What do I do if I have an issue?"
   },
   {
     type: "input",
-    name: "repo",
-    message: "What is your repo link?"
+    name: "username",
+    message: "What is your repo username?"
   },
   {
     type: "input",
@@ -68,22 +68,16 @@ function promptUser() {
     message: "Please enter your email:"
 
   },
-  {
-    type: "input",
-    name: "questions",
-    message: "What do I do if I have an issue?:"
-
-  }
 ]);
 }
-// TODO: Create a function to write README file
+// async function using util.promisify
 async function init() {
   try {
     const answers = await promptUser();
     const generateContent = generateReadme(answers);
     await writeFileAsync('README.md', generateContent);
     console.log("Successfully wrote to README.md");
-  }catch(err){
+  } catch(err){
     console.log(err)
   }
 }
