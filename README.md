@@ -39,15 +39,8 @@
   Not Available
 
   ## Qustions
-  poljako@gmail.com<br/>
   - Find me on GitHub: [oljapriya] (https://github.com/oljapriya)<br/>
   <br/>
 
   - Email me with any questions: poljako@gmail.com
   
-<<<<<<< HEAD
-  
-=======
-
- 
->>>>>>> 2399c49792f7e350c35af10f84040407f60c17ae
