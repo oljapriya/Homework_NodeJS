@@ -16,7 +16,12 @@ function promptUser() {
   {
     type: "input",
     name: "description",
-    message: "Please provide the project usage"
+    message: "Please provide the project usage."
+  },
+  {
+    type: "input",
+    name: "usage",
+    message: "Provide instruction and examples of your project in use for the Usage section."
   },
   {
     type: "input",
@@ -70,7 +75,7 @@ async function init() {
   try {
     const answers = await promptUser();
     const generateContent = generateReadme(answers);
-    await writeFileAsync('./README.md', generateContent);
+    await writeFileAsync('README.md', generateContent);
     console.log("Successfully wrote to README.md");
   }catch(err){
     console.log(err)

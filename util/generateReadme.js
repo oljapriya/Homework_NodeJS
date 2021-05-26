@@ -4,14 +4,14 @@ function generateReadme(answers) {
   return `
   <h1 align="center">${answers.title}</h1>
 
-  ![badge](https://img.shields.io/badge/license-${answers.license}-brightgreen)
+  ![badge](https://img.shields.io/badge/license-${answers.license}-green)
   
+
 
   ## Description 
   ${answers.description}
 
   ## Table of contents
-
   - [Description] (#description)
   - [Instalation] (#instalation)
   - [Usage] (#usage)
@@ -21,7 +21,7 @@ function generateReadme(answers) {
   - [Repository Link] (#repo)
   
 
-  ## Instalation
+  ## Installation
   ${answers.installation}
 
   ## Usage 
