@@ -41,7 +41,6 @@
 
   ## Qustions
   - Find me on GitHub: [oljapriya] (https://github.com/oljapriya)<br/>
-  <br/>
-
+ 
   - Email me with any questions: poljako@gmail.com
   
