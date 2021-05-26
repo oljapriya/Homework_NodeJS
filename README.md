@@ -10,7 +10,7 @@
   
   ![Untitled_ May 26, 2021 9_55 AM (3)](https://user-images.githubusercontent.com/79331882/119680289-099cf400-be0f-11eb-9e2e-983b2a0c0bb3.gif)
   
-  The full movie Movie /Users/oljap./Desktop/Homework_NodeJS/git.gif
+  The full movie Movie
 
 
  
