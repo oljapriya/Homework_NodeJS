@@ -67,6 +67,12 @@ function promptUser() {
     name: "email",
     message: "Please enter your email:"
 
+  },
+  {
+    type: "input",
+    name: "questions",
+    message: "What do I do if I have an issue?:"
+
   }
 ]);
 }

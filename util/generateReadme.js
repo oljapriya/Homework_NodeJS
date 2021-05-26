@@ -13,21 +13,23 @@ function generateReadme(answers) {
 
   ## Table of contents
   - [Description] (#description)
-  - [Instalation] (#instalation)
+  - [Instalation] (#installation)
   - [Usage] (#usage)
   - [Licence] (#license)
   - [Contributors] (#contributing)
   - [Test] (#test)
   - [Repository Link] (#repo)
+  - [Questions] (#questions)
   
 
   ## Installation
   ${answers.installation}
 
   ## Usage 
-  ${answers.description}
+  ${answers.usage}
 
   ## Licence
+  ![badge](https://img.shields.io/badge/license-${answers.license}-green)<br/>
   This application is covered by the ${answers.license} license.
 
   ## Contributing
@@ -36,10 +38,9 @@ function generateReadme(answers) {
   ## Test
   ${answers.test}
 
-  ## Repository
-  ${answers.repo}
-
-  - [Project Repo] [${answers.username}] (https://github.com/${answers.username})<br/>
+  ##Qustions
+  $${answers.questions}
+  - Find me on GitHub[${answers.username}] (https://github.com/${answers.username})<br/>
 
   - Email me with any questions: ${answers.email}
   

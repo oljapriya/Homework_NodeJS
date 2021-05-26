@@ -1,41 +1,43 @@
 
-  <h1 align="center">README.md Generator Using Node.js</h1>
+  <h1 align="center">README.md Generator: Node.js and ES6+</h1>
 
-  ![badge](https://img.shields.io/badge/license-undefined-brightgreen)<br/>
+  ![badge](https://img.shields.io/badge/license-MIT-green)
   
+
 
   ## Description 
-  When you run node index.js the application uses the inquirer package to prompt you in the command line with a series of questions abou your project. The application will generate markdown and a table of contents for the README based on your responses to the inquirer prompts. From there, fs.writeFile is used to generate your project's README.md file.
+  Run the following command at th root of your project and answer the prompted questions:
 
   ## Table of contents
+  - [Description] (#description)
+  - [Instalation] (#installation)
+  - [Usage] (#usage)
+  - [Licence] (#license)
+  - [Contributors] (#contributing)
+  - [Test] (#test)
+  - [Repository Link] (#repo)
+  - [Questions] (#questions)
+  
 
-  - [Description] (#Description)
-  - [Instalation] (#Instalation)
-  - [Usage] (#Usage)
-  - [Licence] (#Licence)
-  - [Contributors] (#Contributors)
-  - [Test] (#Test)
-  - [Repository Link] (#Repository)
-  - [GitHub Info] (#GitHub)
-
-  ## Instalation
-  When you run node index.js the application uses the inquirer package to prompt you in the command line with a series of questions abou your project. The application will generate markdown and a table of contents for the README based on your responsesto the inquirer prompts. From there, fs.writeFile is used to generate your project's README.md file.
+  ## Installation
+  npm init
 
   ## Usage 
-
+  node index.js
 
   ## Licence
-  This application is covered by the undefined license.
+  ![badge](https://img.shields.io/badge/license-MIT-green)<br/>
+  This application is covered by the MIT license.
 
-  ## Contributors
-  
+  ## Contributing
+  Olja Priyakovich
 
   ## Test
-  
+  not available
 
-  ## Repository
-
-  - [Project Repo] [https://github.com/oljapriya/Homework_NodeJS] (https://github.com/https://github.com/oljapriya/Homework_NodeJS)
+  ##Qustions
+  $oljapriya
+  - Find me on GitHub[oljapriya] (https://github.com/oljapriya)<br/>
 
   - Email me with any questions: poljako@gmail.com
   
