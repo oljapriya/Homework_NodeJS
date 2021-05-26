@@ -18,13 +18,10 @@
   -[Contributing] (#contributing)
   -[Test] (#test)
   -[Questions] (#questions)
-=======
+
   Run the following command at th root of your project and answer the prompted questions:
   
   ![Untitled_ May 26, 2021 9_55 AM (3)](https://user-images.githubusercontent.com/79331882/119680289-099cf400-be0f-11eb-9e2e-983b2a0c0bb3.gif)
-  
-  The full movie Movie
-
 
  
 
@@ -62,10 +59,5 @@
 
   - Email me with any questions: poljako@gmail.com
   
-<<<<<<< HEAD
-  
-=======
- 
 
-  
->>>>>>> 90ccdf5b93d590f14aa83b9f927ee95434a80311
+ 
