@@ -10,15 +10,16 @@ function generateReadme(answers) {
 
   ## Description 
   ${answers.description}
+  ![caption](https://drive.google.com/file/d/1klr_SEdCqJ3ID8f_wk2y4MleWvp4RRLh/view / git.gif)
 
-  ## Table of contents
-  - [Description] (#description)
-  - [Instalation] (#installation)
-  - [Usage] (#usage)
-  - [License] (#license)
-  - [Contributing] (#contributing)
-  - [Test] (#test)
-  - [Questions] (#questions)
+  ## Table of Contents
+  -[Description] (#description)
+  -[Installation] (#installation)
+  -[Usage] (#usage)
+  -[License] (#license)
+  -[Contributing] (#contributing)
+  -[Test] (#test)
+  -[Questions] (#questions)
   
 
   ## Installation
@@ -39,7 +40,8 @@ function generateReadme(answers) {
 
   ## Qustions
   ${answers.questions}<br/>
-  - Find me on GitHub[${answers.username}] (https://github.com/${answers.username})<br/>
+  - Find me on GitHub: [${answers.username}] (https://github.com/${answers.username})<br/>
+  <br/>
 
   - Email me with any questions: ${answers.email}
   
