@@ -18,8 +18,6 @@
   - [Contributors] (#contributing)
   - [Test] (#test)
   - [Questions] (#questions)
-
->>>>>>> 2399c49792f7e350c35af10f84040407f60c17ae
   
 
   ## Installation
