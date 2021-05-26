@@ -9,6 +9,8 @@
   This is command-line application that dynamically generates a professional README.md file form a user's input using the Inquirer package.
   
   ![caption](git.gif)
+  
+  The see full video click => [Video](https://drive.google.com/file/d/1klr_SEdCqJ3ID8f_wk2y4MleWvp4RRLh/view)
 
 
   ## Table of contents
