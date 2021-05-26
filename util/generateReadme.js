@@ -10,7 +10,7 @@ function generateReadme(answers) {
 
   ## Description 
   ${answers.description}
-  ![caption](https://drive.google.com/file/d/1klr_SEdCqJ3ID8f_wk2y4MleWvp4RRLh/view / git.gif)
+  ![caption](https://drive.google.com/file/d/1klr_SEdCqJ3ID8f_wk2y4MleWvp4RRLh/view)
 
   ## Table of Contents
   -[Description] (#description)
