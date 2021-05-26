@@ -7,6 +7,8 @@
 
   ## Description 
   Run the following command at th root of your project and answer the prompted questions:
+  Untitled_ May 26, 2021 9_55 AM.gif![image](https://user-images.githubusercontent.com/79331882/119675505-191a3e00-be0b-11eb-9044-e00b9c48e788.png)
+
 
   ## Table of contents
   - [Description] (#description)
