@@ -10,7 +10,7 @@
   
   ![caption](git.gif)
   
-  The see full video click => [Video](https://drive.google.com/file/d/1klr_SEdCqJ3ID8f_wk2y4MleWvp4RRLh/view)
+  The see full video => [Video](https://drive.google.com/file/d/1klr_SEdCqJ3ID8f_wk2y4MleWvp4RRLh/view)
 
 
   ## Table of contents
